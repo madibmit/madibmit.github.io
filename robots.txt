@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+
+# Sitemap locations
+Sitemap: https://madibmit.github.io/sitemap.xml
 Sitemap: https://madibmit.io/starla-adiratna/sitemap.xml
+Sitemap: https://madibmit.io/flappy-sawa/sitemap.xml
