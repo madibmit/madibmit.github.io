@@ -1,3 +1,3 @@
 User-Agent: *
 Allow: /
-Sitemap: https://madibmit.io/starla-adiratna/sitemap.xml
+Sitemap: https://madibmit.io/starla_adiratna/sitemap.xml
