@@ -26,35 +26,35 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Starla Adiratna App (madibmit.io/starla-adiratna) -->
+  <!-- Starla Adiratna App (madibmit.io/starla_adiratna) -->
   <url>
-    <loc>https://madibmit.io/starla-adiratna/</loc>
+    <loc>https://madibmit.io/starla_adiratna/</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://madibmit.io/starla-adiratna/about</loc>
+    <loc>https://madibmit.io/starla_adiratna/about</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://madibmit.io/starla-adiratna/songs</loc>
+    <loc>https://madibmit.io/starla_adiratna/songs</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
-  <!-- Flappy Sawa App (madibmit.io/flappy-sawa) -->
+  <!-- Flappy Sawa App (madibmit.io/flappy_sawa) -->
   <url>
-    <loc>https://madibmit.io/flappy-sawa/</loc>
+    <loc>https://madibmit.io/flappy_sawa/</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://madibmit.io/flappy-sawa/play</loc>
+    <loc>https://madibmit.io/flappy_sawa/play</loc>
     <lastmod>2024-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
