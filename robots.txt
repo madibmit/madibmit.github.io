@@ -3,5 +3,5 @@ Allow: /
 
 # Sitemap locations
 Sitemap: https://madibmit.github.io/sitemap.xml
-Sitemap: https://madibmit.io/starla_adiratna/sitemap.xml
-Sitemap: https://madibmit.io/flappy_sawa/sitemap.xml
+Sitemap: https://madibmit.github.io/starla_adiratna/sitemap.xml
+Sitemap: https://madibmit.github.io/flappy_sawa/sitemap.xml
