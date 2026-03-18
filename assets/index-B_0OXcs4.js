@@ -7,7 +7,7 @@ var ms=Object.defineProperty;var ps=(t,e,s)=>e in t?ms(t,e,{enumerable:!0,config
 			"name": "Muhammad Adib Murtadha",
 			"alternateName": ["madibmit", "madibm"],
 			"jobTitle": "Software Architect & Infrastructure Specialist",
-			"description": "Results-driven IT professional with 7+ years of experience designing, developing, and managing scalable IT systems for universities, SMEs, and foundations.",
+			"description": "Results-driven IT professional with 10+ years of experience designing, developing, and managing scalable IT systems for universities, SMEs, and foundations.",
 			"url": "https://madibmit.github.io",
 			"sameAs": [
 				"https://github.com/madibmit",
